@@ -14,7 +14,16 @@ h2 {
     text-align: center;
 }
 
-img {
+.website {
     text-align: center;
     font-family:'Courier New', Courier, monospace;
+}
+
+.time {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
 }
